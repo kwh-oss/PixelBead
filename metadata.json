@@ -1,0 +1,5 @@
+{
+  "name": "PixelBead",
+  "description": "Perler Bead pattern generator. Upload an image or generate one with AI, and convert it into a pixelated bead pattern with a bill of materials.",
+  "requestFramePermissions": []
+}
